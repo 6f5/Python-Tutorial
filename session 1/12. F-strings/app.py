@@ -1,33 +1,35 @@
 # Displaying Formatted Output with F-strings
 
-# Placeholder Expressions
+## Printing a variable inside a string
 
-# Formatting Values
+## Performing arithmetic operations inside a string
 
-# Rounding Floating-Point Numbers
+## Calling functions inside a string
 
-# Inserting Comma Separators
+## Using expressions inside a string
 
-# Formatting a Floating-Point Number as a Percentage
+## Formatting numbers inside a string
 
-# Formatting in Scientific Notation
+## Formatting Values
 
-# Formatting Integers
+## Rounding Floating-Point Numbers
 
-# Specifying a Minimum Field Width
+## Inserting Comma Separators
 
-# Aligning Values
+## Formatting a Floating-Point Number as a Percentage
 
-# The Order of Designators
+## Formatting in Scientific Notation
 
-# Concatenation with F-strings
+## Formatting Integers
+
+## Specifying a Minimum Field Width
+
+## Aligning Values
+
+## The Order of Designators
+
+## Concatenation with F-strings
 
 
 
 
-
-
-
-
-# Excercise:
-# 

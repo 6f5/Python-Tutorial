@@ -8,6 +8,13 @@
 # - More flexible and forgiving, but potentially less efficient and 
 # more prone to errors.
 
+# Examples of statically typed languages include:
+# Java
+# C++
+# C#
+# Rust
+# Go
+
 
 # Statically typed language: 
 # - Data types are determined at compile time, based on explicit type declarations.
@@ -16,6 +23,13 @@
 # - Code can be more verbose and harder to read.
 # - More rigid and less forgiving, but potentially more efficient and 
 # less prone to errors.
+
+# Examples of statically typed languages include:
+# Python
+# Ruby
+# JavaScript
+# PHP
+# Perl
 
 
 # Data Types:

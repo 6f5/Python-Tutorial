@@ -26,7 +26,12 @@ def my_function(x): # defines a function called "my_function"
 
 # Expressions:
 5 + 7 # adds the values 5 and 7 together, producing the value 12
-"Hello" + " " + "world!" # concatenates the strings "Hello", " ", and "world!", producing the value "Hello world!"
+
+"Hello" + " " + "world!" # concatenates the strings "Hello", " ", and "world!", 
+# producing the value "Hello world!"
+
 3 * (4 + 5) # multiplies the value 3 by the sum of 4 and 5, producing the value 27
+
 my_list = [1, 2, 3]
-my_list[2] # retrieves the third element from the list "my_list", producing a value that depends on the contents of the list
+my_list[2] # retrieves the third element from the list "my_list", producing a 
+# value that depends on the contents of the list

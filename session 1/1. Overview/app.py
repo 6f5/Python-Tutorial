@@ -148,7 +148,9 @@
 # created.
 #
 #
-
+# iterable: an iterable is any object that can be looped over. It is an object 
+# that can return its elements one at a time, in a sequence, when a loop or a 
+# function that uses iteration is applied to it.
 
 
 

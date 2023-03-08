@@ -12,6 +12,7 @@ total = 1000
 # variable = expression
 # ** WARNING: You cannot use a variable until you have assigned a value to it. **
 
+
 # Common Errors:
 # Misspelled variable name
 # Inconsistent use of case
@@ -37,12 +38,14 @@ total = 1000
 # Uppercase and lowercase characters are distinct
 # ** choose names for your variables that give an indication of what they are used for **
 
+
  # Styles of naming variables
  # camelCase
  ## NOTE: This style of naming is called camelCase because the uppercase characters
  # that appear in a name may suggest a camel’s humps.
  # kebob_case
  # PascalCase
+
 
 # camelCase: This naming convention originated in the Smalltalk programming 
 # language in the 1970s. It was later adopted by other programming languages 

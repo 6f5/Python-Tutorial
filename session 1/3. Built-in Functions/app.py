@@ -67,21 +67,54 @@ add_numbers(1, 2)
 # A variable is called a field, property, or an attribute if its inside an object.
 
 
+# What is an iterable?
+# an iterable is any object that can be looped over. It is an object that can 
+# return its elements one at a time, in a sequence, when a loop or a function 
+# that uses iteration is applied to it.
+#
+# Examples of iterables in Python include lists, tuples, sets, and dictionaries. 
+# Strings, ranges, and files are also iterables in Python. In general, any 
+# object that supports the iteration protocol can be considered an iterable.
+#
+# This is useful for performing operations on each element of a collection or 
+# sequence, without having to access each element directly using an index.
+#
+
+
 # Displaying Output with the print Function
-print()
+# print() - This function prints the specified message to the console
 
-# len function
+# len() - This function returns the length of an object
 
-# type function
+# type() - This function returns the type of an object
 
-# range function
+# range() - This function returns a sequence of numbers, starting from 0 by
+# default, and increments by 1 (by default) and stops before the specified number
 
-# str function
+# str() - This function converts an object to a string
 
-# int function
+# int() - This function converts a string or a number to an integer
 
-# float function
+# float() - This function converts a string or a number to a floating-point number
 
-# list function
+# list() - This function creates a new list from an iterable, or converts an 
+# existing iterable to a list.
 
-# tuple function
+# input() - This function reads a line of text from the user through the console
+
+# tuple() - 
+
+# max() - This function returns the largest item in an iterable or the largest
+# of two or more arguments
+
+# min() - This function returns the smallest item in an iterable or the smallest
+# of two or more arguments
+
+# sum() - This function returns the sum of all items in an iterable
+
+
+# zip() - This function returns an iterator that aggregates elements from two
+# or more iterables
+
+# enumerate() - This function returns an iterator that adds a counter to an iterable
+

@@ -1,5 +1,14 @@
 # Formatting strings
 
 # format method
+## Positional Arguments
 
-# f-string (simple)
+## Named Arguments
+
+## Acessing Arguments by index
+
+## Accessing Arguments by name
+
+## Formatting Numbers
+
+## Padding and Aligning Strings
