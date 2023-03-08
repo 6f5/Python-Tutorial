@@ -10,9 +10,6 @@
 
 # Implicit String Literal Concatenation
 
-# Numeric Data Types and Literals
-
-
 # Triple quotes can also be used to surround multiline strings, something for 
 # which single and double quotes cannot be used.
 

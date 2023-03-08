@@ -59,6 +59,17 @@ result = 7.0 + 5.0 / 3.0 # outcome?
 # 8 + 12 * (2 - 4) = ?
 # (6 - 3) * (2 + 7) - 1 = ?
 
+
+# Converting Math Formulas to Programming Statemenets
+#        a + b
+#  x =   _____
+#          c
+#
+# 2xy
+#
+# (3)(12)
+#
+
 # Excercises:
 ## 1. Convert Milliseconds to Hours, Minutes, and Seconds
 
